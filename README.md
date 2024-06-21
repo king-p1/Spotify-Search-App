@@ -81,11 +81,6 @@ Error Handling: Catches and logs errors, throwing an error if the data fetching 
 Styling
 CSS: The application is styled using plain CSS, with media queries to ensure responsiveness on different screen sizes.
 
-Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+
 
 
